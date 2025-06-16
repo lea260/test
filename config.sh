@@ -17,4 +17,4 @@ git config --global core.autocrlf true
 git config --global --unset alias.lodg
 git config --global --list
 # git config --global --unset user.email
-read -p "pausa? (y/n) " answer
+read -p "algo? (y/n) " answer
